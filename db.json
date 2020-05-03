@@ -2,38 +2,23 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Vodka Ciroc",
+      "price": 169.90
     },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "name": "Vodka Absolut",
+      "price": 75.30
     },
     {
       "id": 3,
-      "name": "Sansung S20+ Ultra",
-      "price": "7520.89"
+      "name": "Whisky Johnie Walker Blue Label",
+      "price": 1499.99
     },
     {
-      "name": "Lapis Preto Básico",
-      "price": "1.50",
+      "name": "Vodka Grey Groose",
+      "price": 1399.99,
       "id": 4
-    },
-    {
-      "name": "qqqqq",
-      "price": "111",
-      "id": 5
-    },
-    {
-      "name": "asa",
-      "price": "1111",
-      "id": 6
-    },
-    {
-      "name": "12123123",
-      "price": "123123",
-      "id": 7
     }
   ]
 }
