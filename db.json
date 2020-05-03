@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "name": "Lapis Preto Básico",
+      "price": "1.50",
+      "id": 4
+    },
+    {
+      "name": "qqqqq",
+      "price": "111",
+      "id": 5
+    },
+    {
+      "name": "asa",
+      "price": "1111",
+      "id": 6
+    },
+    {
+      "name": "12123123",
+      "price": "123123",
+      "id": 7
+    }
+  ]
+}
